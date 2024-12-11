@@ -47,6 +47,7 @@ Boosts security with quick and reliable plate recognition for parking and access
 
   - Preprocessing: The image is resized, denoised, and converted to grayscale.<br>
   - Detection: Edges and contours are analyzed to identify the license plate region.<br>
+  
 3️⃣ Extraction: The identified plate is cropped and saved locally for review.<br>
 4️⃣ Text Recognition: Tesseract OCR deciphers the alphanumeric details on the plate for further use.<br>
 
